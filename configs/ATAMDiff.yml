@@ -1,4 +1,4 @@
-exp_name: 'ADOPTDIFF'
+exp_name: 'ATAMDiff'
 data: data/data
 train_data_prefix: bingdingnet_train.full
 val_data_prefix: bingdingnet_test.full
